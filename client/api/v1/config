@@ -15,7 +15,7 @@
 	"line_exclude_loc": 0,
 	"payment_config": {
 		"Alipay": "1",
-		"Wechat": "1"
+		"Wechat": "0"
 	},
 	"hosts": [
 		"https://c0.hyslb.net"
