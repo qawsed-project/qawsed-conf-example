@@ -18,6 +18,11 @@
 		"Wechat": "1"
 	},
 	"hosts": [
-		"https://c0.hyslb.net"
+		"https://c0.hyslb.net",
+		"https://fdhk01.ablink.xyz",
+		"https://fdus01.ablink.xyz",
+		"https://fdsk01.ablink.xyz",
+		"https://fdjp01.ablink.xyz",
+		"https://gcphk01.ablink.xyz"
 	]
 }
